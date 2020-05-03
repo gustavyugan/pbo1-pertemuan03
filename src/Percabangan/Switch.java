@@ -5,19 +5,19 @@ public class Switch {
         int jalanJalan=0;
         switch(jalanJalan) {
             case 1:
-                System.out.println("Ngabuburit");
+                System.out.println("Jalanan");
                 break;
             case 2:
-                System.out.println("Gabut");
+                System.out.println("Gaduh");
                 break;
             case 3:
-                System.out.println("Kerja Kelompok");
+                System.out.println("Bersama");
                 break;
             case 4:
-                System.out.println("Auh Gelap");
+                System.out.println("Gatau pengen beli truk");
                 break;
             default:
-                System.out.println("Ga Ada Akhlak :)");
+                System.out.println("Ga Ada sopannya ye :)");
                 break;
         }
     }
